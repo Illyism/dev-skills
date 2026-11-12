@@ -1,6 +1,7 @@
 ---
 name: benchmarking
-description: Micro-benchmark and iteratively improve hot paths in any codebase — baseline first, mandatory improvement suggestions (bottleneck + 3 creative ideas + recommended next step), bounded attempts, user lock-in checkpoints, then human WHY comments after lock-in. Use when the user asks to benchmark, profile, optimize performance, compare implementations, or measure µs/op before shipping perf changes. Applies to Bun/Node, React, Next.js, browser code, and extensions.
+description: >-
+  Micro-benchmark and iteratively improve hot paths in any codebase: baseline first, mandatory improvement suggestions (bottleneck + 3 creative ideas + recommended next step), bounded attempts, user lock-in checkpoints, then human WHY comments after lock-in. Use when the user asks to benchmark, profile, optimize performance, compare implementations, or measure µs/op before shipping perf changes. Applies to Bun/Node, React, Next.js, browser code, and extensions.
 metadata:
   version: 1.0.0
   author: illyism
